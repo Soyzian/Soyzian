@@ -1,0 +1,10 @@
+Hola / Hello;
+mi / my;
+nombre / name; 
+es / is;
+Soyzian;
+Estoy / I'm;
+Aprendiendo / Learning;
+C++;
+Y / And;
+Nada mas / Nothing special;
